@@ -16,6 +16,7 @@ device.name3=RMX3195
 device.name4=RMX3197
 device.name5=even
 device.name6=EVEN
+device.name7=RMX3430
 supported.versions=
 supported.patchlevels=
 '; } # end properties
