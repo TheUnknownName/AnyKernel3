@@ -1,0 +1,1 @@
+#name kernel here just use echo > name_kernel.txt
