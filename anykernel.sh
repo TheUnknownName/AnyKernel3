@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=$(cat ${0%/*}/name_kernel.txt) for realme C25 Series (even)
+kernel.string=AOSP Kernel for realme C25 Series (even)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
