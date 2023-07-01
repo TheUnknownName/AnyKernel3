@@ -4,19 +4,17 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=AOSP Kernel for realme C25 Series (even)
+kernel.string=AOSP Kernel for RMX2020/RMX2027
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=RMX3191
-device.name2=RMX3193
-device.name3=RMX3195
-device.name4=RMX3197
-device.name5=even
-device.name6=EVEN
-device.name7=RMX3430
+device.name1=rmx2020
+device.name2=RMX2020
+device.name3=RMX2027
+device.name4=ZIPKUS
+device.name5=zipkus
 supported.versions=
 supported.patchlevels=
 '; } # end properties
